@@ -6,7 +6,7 @@
 
 欢迎访问我的主页! 我是一名充满热情的全栈开发者，专注于前后端开发。你可以通过以下链接了解更多：
 
-🏠 [个人网站](www.huangtiandangli.com)
+🏠 [个人网站]([www.huangtiandangli.com](https://www.huangtiandangli.com/))
 
 ## 🚀 技术栈
 
@@ -45,7 +45,7 @@ const backend = {
 - RESTful API 设计
 
 ## 📊 个人统计
-![编程语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact)
+![编程语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=q564240849&layout=compact)
 
 ## 🌱 正在学习
 - 前端工程化
